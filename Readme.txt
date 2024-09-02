@@ -1,5 +1,5 @@
 
-# Landing Page de Batman
+#Landing Page de Batman
 
 Este es un proyecto de landing page dedicado al universo de Batman, diseñado para mostrar información relevante sobre el personaje, sus aliados, enemigos, medios destacados y más.
 
